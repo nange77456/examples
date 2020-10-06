@@ -1,0 +1,3 @@
+include ':patternlib'
+include ':app'
+rootProject.name = "Observer Test"
